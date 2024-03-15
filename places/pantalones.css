@@ -48,6 +48,7 @@ footer {
 
 .Pantalones-M {
     position: absolute;
+    box-shadow: 0px 0px 20px black;
 
     margin-left: 20vw;
     margin-top: -18vw;

@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(251, 225, 255);
+    margin: 0;
+    padding: 0;
+}
+
+.menu a{
+    display: flex;
+
+    text-decoration: none;
+}
+
+h1{
+    margin-left: 2%;
+}
+
+.AllP {
+    margin-left: 2%;
+
+    margin-top: 50px;
+}
+
+.Abrigos {
+    margin-left: 2%;
+    margin-top: 50px;
+}
+.Camisetas {
+    margin-left: 2%;
+
+    margin-top: 50px;
+}
+.Pantalones {
+    margin-left: 2%;
+
+    margin-top: 50px;
+}
+.Carrito {
+    margin-left: 2%;
+
+    margin-top: 50px;
+}
+
+footer {
+    margin-left: 2%;
+    margin-top: 500px;
+
+}
+
+.Abrigos-M {
+    position: absolute;
+
+    margin-left: 20vw;
+    margin-top: -18vw;
+    width: 75vw;
+    height: 45vw;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 0px 0px 20px black;
+}
