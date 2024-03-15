@@ -57,3 +57,7 @@ footer {
     background-color: white;
     box-shadow: 0px 0px 20px black;
 }
+
+h1, h2 {
+    margin-left: 2%;
+}
