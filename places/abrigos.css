@@ -10,6 +10,10 @@ body {
     text-decoration: none;
 }
 
+h1{
+    margin-left: 2%;
+}
+
 .AllP {
     margin-left: 2%;
 
@@ -56,66 +60,245 @@ footer {
 .Abrigos-1 {
     position: absolute;
 
-    margin-left: 22vw;
+    margin-left: 23vw;
     margin-top: -17vw;
-    width: 15vw;
-    height: 16vw;
+    width: 18vw;
+    height: 20vw;
     border-radius: 30px;
     background-color: rgb(246, 188, 255);
 }
 
+.Abrigos-1 img{
+    position: absolute;
+
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 10vw;
+    height: auto;
+    border-radius: 30px;
+    background-color: rgb(246, 188, 255);
+}
+
+.titulo-1 {
+    position: absolute;
+    text-align: center;
+
+    font-size: 20px;
+    margin-top: 85%;
+    width: 100%;
+    height: 20%;
+    border-radius: 10px;
+    
+    background-color: rgb(212, 158, 220);
+}
+
+.precio-1{
+    position: absolute;
+    text-align: center;
+
+    font-size: 20px;
+    margin-top: 100%;
+    width: 100%;
+    height: 10%;
+    border-radius: 10px;
+    
+    background-color: rgb(212, 158, 220);
+}
+/**/
 .Abrigos-2 {
     position: absolute;
 
-    margin-left: 42vw;
+    margin-left: 49vw;
     margin-top: -17vw;
-    width: 15vw;
-    height: 16vw;
+    width: 18vw;
+    height: 20vw;
     border-radius: 30px;
     background-color: rgb(246, 188, 255);
 }
+
+.Abrigos-2 img{
+    position: absolute;
+
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 10vw;
+    height: auto;
+    border-radius: 30px;
+    background-color: rgb(246, 188, 255);
+}
+
+.titulo-2 {
+    position: absolute;
+    text-align: center;
+
+    font-size: 20px;
+    margin-top: 85%;
+    width: 100%;
+    height: 20%;
+    border-radius: 10px;
+    
+    background-color: rgb(212, 158, 220);
+}
+
+.precio-2{
+    position: absolute;
+    text-align: center;
+
+    font-size: 20px;
+    margin-top: 100%;
+    width: 100%;
+    height: 10%;
+    border-radius: 10px;
+    
+    background-color: rgb(212, 158, 220);
+}
+
+/**/
 
 .Abrigos-3 {
     position: absolute;
 
-    margin-left: 62vw;
+    margin-left: 75vw;
     margin-top: -17vw;
-    width: 15vw;
-    height: 16vw;
+    width: 18vw;
+    height: 20vw;
     border-radius: 30px;
     background-color: rgb(246, 188, 255);
 }
 
+.Abrigos-3 img{
+    position: absolute;
+
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 10vw;
+    height: auto;
+    border-radius: 30px;
+    background-color: rgb(246, 188, 255);
+}
+
+.titulo-3 {
+    position: absolute;
+    text-align: center;
+
+    font-size: 20px;
+    margin-top: 85%;
+    width: 100%;
+    height: 20%;
+    border-radius: 10px;
+    
+    background-color: rgb(212, 158, 220);
+}
+
+.precio-3{
+    position: absolute;
+    text-align: center;
+
+    font-size: 20px;
+    margin-top: 100%;
+    width: 100%;
+    height: 10%;
+    border-radius: 10px;
+    
+    background-color: rgb(212, 158, 220);
+}
+
+/* */
 
 .Abrigos-4 {
     position: absolute;
 
-    margin-left: 22vw;
-    margin-top: 7vw;
-    width: 15vw;
-    height: 16vw;
+    margin-left: 23vw;
+    margin-top:  5vw;
+    width: 18vw;
+    height: 20vw;
     border-radius: 30px;
     background-color: rgb(246, 188, 255);
 }
 
+.Abrigos-4 img{
+    position: absolute;
 
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 10vw;
+    height: auto;
+    border-radius: 30px;
+    background-color: rgb(246, 188, 255);
+}
+
+.titulo-4 {
+    position: absolute;
+    text-align: center;
+
+    font-size: 20px;
+    margin-top: 85%;
+    width: 100%;
+    height: 20%;
+    border-radius: 10px;
+    
+    background-color: rgb(212, 158, 220);
+}
+
+.precio-4{
+    position: absolute;
+    text-align: center;
+
+    font-size: 20px;
+    margin-top: 100%;
+    width: 100%;
+    height: 10%;
+    border-radius: 10px;
+    
+    background-color: rgb(212, 158, 220);
+}
+/**/
 .Abrigos-5 {
     position: absolute;
 
-    margin-left: 42vw;
-    margin-top: -17vw;
-    width: 15vw;
-    height: 16vw;
+    margin-left: 49vw;
+    margin-top:  5vw;
+    width: 18vw;
+    height: 20vw;
     border-radius: 30px;
     background-color: rgb(246, 188, 255);
 }
 
-
-
-/*
-.abrigo-1 img{
+.Abrigos-5 img{
     position: absolute;
-    height: 10%;
-    width: auto;
+
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 10vw;
+    height: auto;
+    border-radius: 30px;
+    background-color: rgb(246, 188, 255);
 }
-*/
+
+.titulo-5 {
+    position: absolute;
+    text-align: center;
+
+    font-size: 20px;
+    margin-top: 85%;
+    width: 100%;
+    height: 20%;
+    border-radius: 10px;
+    
+    background-color: rgb(212, 158, 220);
+}
+
+.precio-5{
+    position: absolute;
+    text-align: center;
+
+    font-size: 20px;
+    margin-top: 100%;
+    width: 100%;
+    height: 10%;
+    border-radius: 10px;
+    
+    background-color: rgb(212, 158, 220);
+}
+
+/**/
